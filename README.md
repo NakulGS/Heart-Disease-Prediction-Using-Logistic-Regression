@@ -64,6 +64,8 @@ data.describe()
 sns.countplot(x='target', data=data)
 plt.show()
 ```
+
+
 ## Data Splitting
 
 ```python
@@ -101,6 +103,9 @@ The model achieved an accuracy of approximately 77.05% on the test set, as calcu
 
 ### Confusion Matrix
 The confusion matrix provides a detailed breakdown of the model's performance:
+
+
+![download](https://github.com/user-attachments/assets/52499f86-c4bb-4659-8249-7d3594e5b369)
 
 Where:
 - **TN (True Negative)**: Number of actual negatives correctly predicted as negatives.

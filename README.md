@@ -134,4 +134,3 @@ For this model, the precision is 0.73, meaning that 73% of the instances predict
 
 The model demonstrates a good balance between precision and recall, with a relatively high recall indicating its effectiveness in identifying most positive cases of heart disease.
 
-

@@ -66,6 +66,10 @@ plt.show()
 ```
 
 
+![download](https://github.com/user-attachments/assets/765af3bf-edcf-4cde-9292-8eae0c53f196)
+
+
+
 ## Data Splitting
 
 ```python

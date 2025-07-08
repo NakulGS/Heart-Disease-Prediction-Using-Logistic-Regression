@@ -1,6 +1,6 @@
 # Heart-Disease-Prediction-using-Logistic-Regression
 
-This project aims to predict the presence of heart disease using logistic regression. The dataset used contains various features related to heart health.
+This project aims to predict the presence of heart disease using logistic regression. The dataset used contains various features related to heart.
 
 ## Table of Contents
 - [Importing Libraries](#importing-libraries)
